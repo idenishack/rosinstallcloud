@@ -1,0 +1,2 @@
+# rosinstallcloud
+cloud-config
